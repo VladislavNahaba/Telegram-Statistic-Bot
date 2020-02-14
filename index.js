@@ -79,8 +79,6 @@ bot.on('message', (ctx) => {
           let cpm = getCpm(views, money);
           let cps = getCps(views, money, term, percent);
           let prediction = getSub(views, term, percent);
-            // ctx.reply(`Имя канала: ${channelData.title}\nПодписчиков: ${channelData.totalMembers}\nСсылка: ${channelData.link}\nТип: ${channelData.type === 'public' ? 'публинчый' : 'приватный' }\nИнфографика: \n`,
-            //   {reply_to_message_id: ctx.message.message_id, disable_web_page_preview: true});
           ctx.reply('Имя канала: ' + channelData.title + '\n' +
             'Подписчиков: ' + channelData.totalMembers + '\n' +
             'Ссылка: ' + channelData.link + '\n' +
