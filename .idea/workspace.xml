@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0813cb22-26c1-4c2e-8a86-3e2108f4d2bc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X6cdbpB81pRpyYIuyaaeTGSHnM" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.6.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2telegram" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\telegram_bot\lib_2" />
+      <recent name="D:\telegram_bot" />
+      <recent name="D:\telegram_bot\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0813cb22-26c1-4c2e-8a86-3e2108f4d2bc" name="Default Changelist" comment="" />
+      <created>1580370073476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580370073476</updated>
+      <workItem from="1580370077139" duration="26579000" />
+      <workItem from="1580455872456" duration="21432000" />
+      <workItem from="1580715175536" duration="21706000" />
+      <workItem from="1580801377257" duration="23912000" />
+      <workItem from="1580887597250" duration="7062000" />
+      <workItem from="1580895547148" duration="4000" />
+      <workItem from="1580903839952" duration="615000" />
+      <workItem from="1580910131129" duration="4059000" />
+      <workItem from="1580914310417" duration="1497000" />
+      <workItem from="1580974724440" duration="2089000" />
+      <workItem from="1580978769904" duration="20595000" />
+      <workItem from="1581060949037" duration="822000" />
+      <workItem from="1581062741864" duration="1282000" />
+      <workItem from="1581064498990" duration="22747000" />
+      <workItem from="1581493133023" duration="25538000" />
+      <workItem from="1581578553181" duration="12064000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
