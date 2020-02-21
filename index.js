@@ -471,7 +471,7 @@ function getParams(str) {
 }
 
 async function getChannelData (channelName) {
-  return await axios.get(`https://tg-server.redpic.ru/api/v1/getChannelInfo?channel=${channelName}`, {
+  return await axios.get(`API_SERVER_WITH_CALCULATIONS=${channelName}`, {
     httpsAgent: new https.Agent({
       rejectUnauthorized: false
     })
